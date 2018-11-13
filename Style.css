@@ -1,0 +1,22 @@
+h1 {
+	font-family:caveat;
+	text-align:center;
+	color:black;
+    font-size: 75px;
+}
+html,body{
+	background-color:white;
+}
+
+div{
+	background-color:#1F0428;
+	color:white;
+	text-align:center;
+	margin: 0px 75px 0px 75px;
+	height:100vh;
+	padding: 20px;
+}
+
+h2{
+	font-size:50;
+}
