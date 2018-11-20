@@ -34,7 +34,7 @@ font-family:montserrat;
 	border:1px solid black;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:white;
 	font-family:Georgia;
 	font-size:28px;
 	padding:15px 11px;
@@ -42,6 +42,7 @@ font-family:montserrat;
 }
 .myButton:hover {
 	background-color:Black;
+	color:white;
 }
 .myButton:active {
 	position:relative;
