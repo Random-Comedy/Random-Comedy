@@ -27,5 +27,6 @@ font-family:montserrat;
 }
 
 #Home-Button{
-	color:blue;
+	background-color:blue;
+	color:black;
 }
